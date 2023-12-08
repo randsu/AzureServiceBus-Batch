@@ -1,0 +1,12 @@
+D:\Projects\AzureFunction.QueueBatchProcessing\AzureFunction.QueueBatchProcessing.Models\bin\Debug\net6.0\AzureFunction.QueueBatchProcessing.Models.deps.json
+D:\Projects\AzureFunction.QueueBatchProcessing\AzureFunction.QueueBatchProcessing.Models\bin\Debug\net6.0\AzureFunction.QueueBatchProcessing.Models.dll
+D:\Projects\AzureFunction.QueueBatchProcessing\AzureFunction.QueueBatchProcessing.Models\bin\Debug\net6.0\AzureFunction.QueueBatchProcessing.Models.pdb
+D:\Projects\AzureFunction.QueueBatchProcessing\AzureFunction.QueueBatchProcessing.Models\obj\Debug\net6.0\AzureFunction.QueueBatchProcessing.Models.csproj.AssemblyReference.cache
+D:\Projects\AzureFunction.QueueBatchProcessing\AzureFunction.QueueBatchProcessing.Models\obj\Debug\net6.0\AzureFunction.QueueBatchProcessing.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\AzureFunction.QueueBatchProcessing\AzureFunction.QueueBatchProcessing.Models\obj\Debug\net6.0\AzureFunction.QueueBatchProcessing.Models.AssemblyInfoInputs.cache
+D:\Projects\AzureFunction.QueueBatchProcessing\AzureFunction.QueueBatchProcessing.Models\obj\Debug\net6.0\AzureFunction.QueueBatchProcessing.Models.AssemblyInfo.cs
+D:\Projects\AzureFunction.QueueBatchProcessing\AzureFunction.QueueBatchProcessing.Models\obj\Debug\net6.0\AzureFunction.QueueBatchProcessing.Models.csproj.CoreCompileInputs.cache
+D:\Projects\AzureFunction.QueueBatchProcessing\AzureFunction.QueueBatchProcessing.Models\obj\Debug\net6.0\AzureFunction.QueueBatchProcessing.Models.dll
+D:\Projects\AzureFunction.QueueBatchProcessing\AzureFunction.QueueBatchProcessing.Models\obj\Debug\net6.0\refint\AzureFunction.QueueBatchProcessing.Models.dll
+D:\Projects\AzureFunction.QueueBatchProcessing\AzureFunction.QueueBatchProcessing.Models\obj\Debug\net6.0\AzureFunction.QueueBatchProcessing.Models.pdb
+D:\Projects\AzureFunction.QueueBatchProcessing\AzureFunction.QueueBatchProcessing.Models\obj\Debug\net6.0\ref\AzureFunction.QueueBatchProcessing.Models.dll

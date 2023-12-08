@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "p+gBev1CqY7/pbSPm66w/L44nlRs4AYKzGTkhoMxHCCY7OwpoCmQ9c/6m8di8udAi/zEC5B54SBMBr0CxiWCWQ==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\AzureFunction.QueueBatchProcessing\\AzureFunction.QueueBatchProcessing.Models\\AzureFunction.QueueBatchProcessing.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
